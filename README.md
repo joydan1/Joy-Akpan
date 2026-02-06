@@ -3,7 +3,7 @@
 A personal portfolio website showcasing my projects, skills, and contact details. Built to be clean, responsive, and easy to navigate.
 
 ## Live Demo
-- Live: YOUR_LIVE_LINK_HERE (e.g. https://your-portfolio.vercel.app)
+- Live: YOUR_LIVE_LINK_HERE (https://joy-akpan.vercel.app/)
 
 
 ## Features
